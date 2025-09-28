@@ -1,0 +1,4 @@
+Some contents in the new file of ignored file in git
+
+
+One more line
