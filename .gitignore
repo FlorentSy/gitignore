@@ -1,6 +1,10 @@
+# Ignore single files
 new-file.txt
 new-file2.txt
 
+#Ignore all files in this bin/ folder
 bin/
 
-# Ignore all in folder added
+
+#Ignore all .tmp files
+*.tmp
