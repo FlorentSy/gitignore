@@ -1,2 +1,6 @@
 new-file.txt
 new-file2.txt
+
+bin/
+
+# Ignore all in folder added
